@@ -1,0 +1,18 @@
+.container{
+    position: relative;
+    background-color: #CCCCCC;
+}
+.box-laranja{
+    position: absolute;
+    background: orange;
+    width: 100px;
+    height: 100px;
+    right: 5px;
+}
+.box-azul{
+    background: blue;
+    width: 100px;
+    height: 100px;
+    right: 5px;
+    position: relative;
+}
